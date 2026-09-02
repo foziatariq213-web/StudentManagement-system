@@ -2,10 +2,7 @@
 
 A role-protected school management web application built with **Laravel (MVC)** and **MySQL** — manage students, teachers, courses, departments, and attendance from a centralized admin dashboard, with printable PDF reports.
 
-<!-- Add 2–3 screenshots here. GitHub par image add karne ka tareeqa:
-     repo mein `screenshots/` folder banao, images push karo, phir:
-     ![Dashboard](screenshots/dashboard.png)
--->
+![Dashboard](screenshots/02-dashboard.png)
 
 ## ✨ Features
 
@@ -25,6 +22,29 @@ A role-protected school management web application built with **Laravel (MVC)** 
 | Frontend | Blade templates, CSS |
 | PDF | Laravel PDF generation |
 | Tools | Composer, Git, VS Code |
+
+## 📸 Screenshots
+
+**Login**
+![Login](screenshots/01-login.png)
+
+**Analytics — department distribution, attendance performance & admission trends**
+![Analytics](screenshots/03-analytics.png)
+
+**Students Management**
+![Students](screenshots/04-students.png)
+
+**Attendance Tracking**
+![Attendance](screenshots/05-attendance.png)
+
+**Courses Management**
+![Courses](screenshots/06-courses.png)
+
+**Teachers Management**
+![Teachers](screenshots/07-teachers.png)
+
+**Reports & PDF Export**
+![Reports](screenshots/08-reports.png)
 
 ## 🚀 Getting Started
 
