@@ -68,7 +68,7 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-The app will be available at `http://localhost:8000`.
+The app will be available at `http://localhost:8080`.
 
 ## 📂 Project Highlights
 
